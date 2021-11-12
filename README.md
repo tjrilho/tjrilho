@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjrilho
-- 👀 I’m interested in systems architecture, and testing technologies to help build such architecture
+- 👀 I’m interested in systems architecture, and testing technologies to help build modern architectures.
 - 🌱 I’m currently learning ... Actually, I hope to be continuously learning, not just currently! but learning some stuff on GO
-- 💞️ I’m looking to collaborate on cool projects and technologin
+- 💞️ I’m looking to collaborate on cool projects and technologies
 - 📫 How to reach me ... Well, just let me know
 
 <!---
